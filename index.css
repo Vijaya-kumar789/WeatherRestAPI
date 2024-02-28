@@ -1,0 +1,27 @@
+body{
+    background-color:#ac72e2 ;
+}
+.card{
+    text-align: center;
+    background-color:#ac72e2;
+     margin: 15px ;
+         
+}
+.card-body{
+    background-image: linear-gradient(120deg, #ac72e2 0%, #8ec5fc 100%);
+
+}
+.card-header {
+    background-color: black;
+    color: white;
+}
+p{
+    margin-top: 15px;
+}
+.row{
+    flex-wrap: wrap;
+}
+.card-img-top{
+   width: 200px;
+   height: 100px;
+}
